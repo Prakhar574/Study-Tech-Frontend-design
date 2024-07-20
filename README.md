@@ -1,5 +1,5 @@
 Study Tech Frontend Design
-Live preview:-
+Live preview:-https://studytechhh.netlify.app/
 
 This repository contains the frontend design for the Study Tech educational platform. Study Tech is a responsive and modern website that provides online courses, including video lectures, quizzes, and discussion forums.
 ![Screenshot 2024-07-20 162806](https://github.com/user-attachments/assets/a86a7581-7f57-4587-b45d-9c7d3cf15eb0)
