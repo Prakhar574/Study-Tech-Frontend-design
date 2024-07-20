@@ -48,12 +48,14 @@ nav {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s, transform 0.3s;
+    font-size: 20px;
 }
 
 .nav-links a:hover {
     color: #ff6f61;
     transform: translateY(-2px);
     background-color: aliceblue;
+    padding: 15px;
 }
 
 .menu-toggle {
