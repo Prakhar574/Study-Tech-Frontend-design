@@ -205,8 +205,14 @@ section h2::before {
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-    color: #ff6f61;
+    color:#1e3c72;
     transition: transform 0.3s, box-shadow 0.3s;
+
+}
+.quiz h3{
+    color: #1e3c72;
+    font-size: 20px;
+    
 }
 
 .quiz:hover {
